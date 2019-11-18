@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "obliviondemons:blocks/nether_daemonium_ore"
+   }
+}

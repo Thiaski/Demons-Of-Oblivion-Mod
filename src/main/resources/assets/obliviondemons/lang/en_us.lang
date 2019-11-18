@@ -1,0 +1,16 @@
+//Items
+item.daemonium_ingot.name=Daemonium Ingot
+
+
+//Tools
+item.daemonium_sword.name=Daemonium Sword
+
+
+//Armors
+item.daemonium_helmet.name=Daemonium Helmet
+item.daemonium_chestplate.name=Daemonium Chestplate
+item.daemonium_leggings.name=Daemonium Leggings
+item.daemonium_boots.name=Daemonium Boots
+
+//Blocks
+tile.nether_daemonium_ore.name=Daemonium Ore

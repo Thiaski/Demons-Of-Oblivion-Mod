@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "obliviondemons:daemonium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "obliviondemons:daemonium_leggings",
+        "count": 1
+    }
+}
